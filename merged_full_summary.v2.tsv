@@ -1,4 +1,4 @@
-Subclass	Superfamily	Family	Min_TE_length	Max_TE_length	Female_Counts	Nb_of_insertion	Female_nb_of_expressed_insertion	Female_most_expressed_insertion	Male_Counts	Male_nb_of_expressed_insertion	Male_most_expressed_insertion
+Subclass	Superfamily	Family	nb_of_insertion	Min_TE_length	Max_TE_length	Female_Counts	Female_nb_of_expressed_insertion	Female_most_expressed_insertion	Male_Counts	Male_nb_of_expressed_insertion	Male_most_expressed_insertion
 LINE	I	IVK_DM	47	57	7386	2	2	IVK_DM_3L_RaGOO_19656431_19661800	0	0	IVK_DM_2L_RaGOO_1_356
 LTR	Gypsy	DM297	145	37	10825	3	3	DM297_I_2R_RaGOO_2216579_2220068	2	2	DM297_I_2R_RaGOO_16168_20202
 LINE	I-Jockey	TAHRE	28	52	17305	5	5	TAHRE_2L_RaGOO_38366_47731	461	11	TAHRE_2R_RaGOO_1145909_1151824
