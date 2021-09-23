@@ -6193,7 +6193,7 @@ LTR	Pao	ROO	ROO_I_3R_RaGOO_14686977_14687091	0	{}	0.0
 LTR	Pao	ROO	ROO_I_3R_RaGOO_15152782_15152894	0	{}	0.0
 LTR	Pao	ROO	ROO_I_3R_RaGOO_15236571_15236686	0	{}	0.0
 LTR	Pao	ROO	ROO_I_3R_RaGOO_15237637_15237765	0	{}	0.0
-LTR	Pao	ROO	ROO_I_3R_RaGOO_15240450_15245518	3	{'16881b7e-6eca-4b3c-b2db-39c7649ca2a0': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7156b26a0>, '3d6f11b6-10da-441b-8f8b-309fadc6a7d7': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7156b20a0>, 'e533f268-39c8-4022-aa41-773e480cdc7b': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7156b2040>}	0.37476979742173117
+LTR	Pao	ROO	ROO_I_3R_RaGOO_15240450_15245518	3	{'16881b7e-6eca-4b3c-b2db-39c7649ca2a0': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7156b26a0>, '3d6f11b6-10da-441b-8f8b-309fadc6a7d7': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7156b20a0>, 'e533f268-39c8-4022-aa41-773e480cdc7b': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7156b2040>}	0.3747697974217311
 LTR	Pao	ROO	ROO_I_3R_RaGOO_15356482_15356559	0	{}	0.0
 LTR	Pao	ROO	ROO_I_3R_RaGOO_15382451_15382521	0	{}	0.0
 LTR	Pao	ROO	ROO_I_3R_RaGOO_15426382_15426459	0	{}	0.0
@@ -7848,7 +7848,7 @@ LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_603817_607773	0	{}	0.0
 LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_1054505_1059064	0	{}	0.0
 LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_2765010_2768962	0	{}	0.0
 LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_3133282_3137242	0	{}	0.0
-LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_17340828_17345349	2	{'7e5d43e0-633d-4dd2-8778-92ad5877c836': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7150f0be0>, 'a2c2fa9b-75a7-4fec-8807-08c1d64f2a29': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7150f0ca0>}	0.9254589692545897
+LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_17340828_17345349	2	{'7e5d43e0-633d-4dd2-8778-92ad5877c836': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7150f0be0>, 'a2c2fa9b-75a7-4fec-8807-08c1d64f2a29': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7150f0ca0>}	0.9254589692545896
 LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_19414245_19418152	0	{}	0.0
 LTR	Gypsy	MICROPIA	MICROPIA_I_X_RaGOO_20991391_20991550	0	{}	0.0
 LTR	Gypsy	MICROPIA	MICROPIA_LTR_X_RaGOO_22005718_22006544	0	{}	0.0
@@ -8826,7 +8826,7 @@ LTR	Gypsy	MDG3	MDG3_LTR_3R_RaGOO_4405841_4411373	0	{}	0.0
 LTR	Gypsy	MDG3	MDG3_I_3R_RaGOO_11761852_11762765	0	{}	0.0
 LTR	Gypsy	MDG3	MDG3_LTR_X_RaGOO_84725_85776	0	{}	0.0
 LTR	Gypsy	MDG3	MDG3_LTR_X_RaGOO_11132720_11138277	0	{}	0.0
-LTR	Gypsy	MDG3	MDG3_LTR_X_RaGOO_11298256_11303771	1	{'52dc5c7e-1ef6-410a-8470-e0cfed50b19d': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7153aa340>}	0.13907524932003626
+LTR	Gypsy	MDG3	MDG3_LTR_X_RaGOO_11298256_11303771	1	{'52dc5c7e-1ef6-410a-8470-e0cfed50b19d': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb7153aa340>}	0.1390752493200362
 LTR	Gypsy	MDG3	MDG3_LTR_X_RaGOO_14587062_14592565	0	{}	0.0
 LTR	Gypsy	MDG3	MDG3_LTR_X_RaGOO_15113881_15119378	0	{}	0.0
 LTR	Gypsy	MDG3	MDG3_I_X_RaGOO_19439968_19441454	0	{}	0.0
@@ -9213,7 +9213,7 @@ DNA	P	PROTOP_A	PROTOP_A_X_RaGOO_21310570_21310675	0	{}	0.0
 DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_9973991_9974049	0	{}	0.0
 DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_14698784_14698838	0	{}	0.0
 DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_17922536_17922577	0	{}	0.0
-DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_21112657_21113769	5	{'83905f44-d597-4ed0-a114-928a023843bf': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b807c0>, '0517eac3-8d6b-4b21-97c9-e1ee0f19fb88': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b80880>, 'f5d7f1c0-6632-4774-a0f4-46e5aeb6e048': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b808e0>, '0dd8d651-16d0-4320-8353-201c2d5f9386': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b80700>, 'c8c533a4-dccc-4138-a71f-ff25fa098d1b': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b80820>}	0.9275179856115109
+DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_21112657_21113769	5	{'83905f44-d597-4ed0-a114-928a023843bf': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b807c0>, '0517eac3-8d6b-4b21-97c9-e1ee0f19fb88': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b80880>, 'f5d7f1c0-6632-4774-a0f4-46e5aeb6e048': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b808e0>, '0dd8d651-16d0-4320-8353-201c2d5f9386': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b80700>, 'c8c533a4-dccc-4138-a71f-ff25fa098d1b': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb716b80820>}	0.9275179856115108
 DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_21113773_21113827	0	{}	0.0
 DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_21688836_21688876	0	{}	0.0
 DNA	TcMar-Tc1	BARI1	BARI1_2L_RaGOO_21960097_21960818	0	{}	0.0
@@ -10498,7 +10498,7 @@ LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_70236_71556	0	{}	0.0
 LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_638841_639933	0	{}	0.0
 LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_650072_653275	0	{}	0.0
 LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_790332_790457	0	{}	0.0
-LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_860527_861391	1	{'42e51d51-4763-424a-b02d-676b2e0a7487': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb715fa6e20>}	0.44560185185185186
+LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_860527_861391	1	{'42e51d51-4763-424a-b02d-676b2e0a7487': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb715fa6e20>}	0.4456018518518518
 LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_872115_872419	0	{}	0.0
 LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_882399_882669	0	{}	0.0
 LINE	I-Jockey	DOC3_DM	DOC3_DM_2R_RaGOO_892653_892923	0	{}	0.0
@@ -13340,7 +13340,7 @@ LTR	Gypsy	Gypsy8	Gypsy8_LTR_3L_RaGOO_23377575_23378111	0	{}	0.0
 LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23404113_23404618	0	{}	0.0
 LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23405018_23405297	0	{}	0.0
 LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23416110_23416744	0	{}	0.0
-LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23435681_23436000	1	{'c7fe18e9-404d-46fd-945b-29da3bb0d9bc': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb715e10d00>}	0.49216300940438873
+LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23435681_23436000	1	{'c7fe18e9-404d-46fd-945b-29da3bb0d9bc': <pysam.libcalignedsegment.AlignedSegment object at 0x7fb715e10d00>}	0.4921630094043887
 LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23469756_23472718	0	{}	0.0
 LTR	Gypsy	Gypsy8	Gypsy8_I_3L_RaGOO_23486968_23487602	0	{}	0.0
 LTR	Gypsy	Gypsy8	Gypsy8_LTR_3L_RaGOO_23527413_23527636	0	{}	0.0
