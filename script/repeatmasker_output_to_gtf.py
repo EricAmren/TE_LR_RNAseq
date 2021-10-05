@@ -8,7 +8,8 @@ with open(NEW_GTF, 'w') as output:
 	with open(RM_FILE, 'r') as input:
 		for line in input:
 			sline = line.strip().split("\t")
-			chrom, start, end, score, strand, gene_id= sline[4:10]
+			chrom, start, end, score, strand, gene_id, family = sline[4:11]
+			subclass, superfamily = family.split("/")
 			source = "dmgoth101"
 			feature = "exon"
 			phase = "."
