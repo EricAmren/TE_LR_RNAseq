@@ -1,4 +1,5 @@
-chimera_file = "chimeric_that_pass_all_filters.v2.male.tsv"
+import csv
+chimera_file = "chimeric_that_pass_all_filters.v2.female.tsv"
 chimera_count_dict = dict()
 with open(chimera_file, 'r') as input:
 	for line in input:
@@ -10,6 +11,11 @@ with open(chimera_file, 'r') as input:
 # print(max(chimera_count_dict, key=chimera_count_dict.get))
 sorted_chimera_dict = dict(sorted(chimera_count_dict.items(), key=lambda item: item[1], reverse=True))
 
-print(list(sorted_chimera_dict.keys())[:20])
+# print(list(sorted_chimera_dict.keys())[:20])
 
+csv_file = "chimeric_TE_insertion.female.tsv"
+with open(csv_file, "w") as output:
+	writer = csv.writer(output, delimiter="\t")
+	for [insertion, count] in sorted_chimera_dict.items():
+		writer.writerow([insertion, count])
 
