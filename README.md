@@ -1,6 +1,8 @@
 # Detection and identification of TE using long Read RNAseq in germline tissues
 :warning: Keep in mind that the **Teloprime** protocol is best suited for **TE detection**, and not for quantification.
 
+[Link to the HackMD document with interactive figures](https://hackmd.io/@EricCumunel/rJ3b5x7Ht)
+
 [Link to the git repository](https://github.com/EricAmren/TE_LR_RNAseq.git)
 
 [Link to the slides](https://docs.google.com/presentation/d/1zVL1_sLJUk7L-axE-PnOMbSWqYwWqodFVCet5MtRTtc/edit?usp=sharing)
